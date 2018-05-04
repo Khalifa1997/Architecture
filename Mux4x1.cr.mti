@@ -1,0 +1,9 @@
+{C:/Users/laz/Desktop/Archi Project/architecture/mux4X1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/laz/Desktop/Archi Project/architecture/mux4X1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux_4to1
+-- Compiling architecture Behavioral of mux_4to1
+
+} {} {}}

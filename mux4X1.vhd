@@ -9,7 +9,6 @@ end mux_4to1;
 
 architecture Behavioral of mux_4to1 is
 begin
-with SEL select
     X <= A when SEL = "00" else
          B when SEL = "01" else
          C when SEL = "10" else
