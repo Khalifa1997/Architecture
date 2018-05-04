@@ -3,7 +3,7 @@ Use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 Entity my_nDFF is
 port( Clk,Rst : in std_logic;
-d,w : in std_logic_vector(16 downto 0);
+d,w : in std_logic_vector(15 downto 0);
 q : out std_logic_vector(31 downto 0));
 end my_nDFF;
 
