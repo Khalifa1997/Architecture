@@ -4,7 +4,7 @@ use ieee.numeric_std.all;
 Entity my_nDFF is
 port( Clk,Rst : in std_logic;
 d,w : in std_logic_vector(15 downto 0);
-q : out std_logic_vector(32 downto 0));
+q : out std_logic_vector(31 downto 0));
 end my_nDFF;
 
 Architecture a_my_nDFF of my_nDFF is
