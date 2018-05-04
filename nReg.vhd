@@ -2,9 +2,10 @@ Library ieee;
 Use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 Entity my_nDFF is
+Generic ( n : integer := 16);
 port( Clk,Rst : in std_logic;
-d,w : in std_logic_vector(15 downto 0);
-q : out std_logic_vector(31 downto 0));
+d,w : in std_logic_vector((n/2) -1 downto 0);
+q : out std_logic_vector(n-1 downto 0));
 end my_nDFF;
 
 Architecture a_my_nDFF of my_nDFF is
