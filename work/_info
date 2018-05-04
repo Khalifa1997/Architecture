@@ -8,3 +8,44 @@ z2
 !i10f 100
 cModel Technology
 dC:/Users/laz/Desktop/LabExam1-4
+Esyncram
+Z0 w1525450137
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/laz/Desktop/Archi Project/architecture
+Z5 8C:/Users/laz/Desktop/Archi Project/architecture/InstructionMem.vhd
+Z6 FC:/Users/laz/Desktop/Archi Project/architecture/InstructionMem.vhd
+l0
+L5
+V7Ad@SB2QSm9[ohYJ_dziY2
+!s100 bgRbZOlMEo1LNj5PUbf203
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1525450141
+!i10b 1
+Z9 !s108 1525450141.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/laz/Desktop/Archi Project/architecture/InstructionMem.vhd|
+Z11 !s107 C:/Users/laz/Desktop/Archi Project/architecture/InstructionMem.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Asyncrama
+R1
+R2
+R3
+DEx4 work 7 syncram 0 22 7Ad@SB2QSm9[ohYJ_dziY2
+l19
+L15
+V3b<=dIYMF9e5Q7Q9Qa3kA1
+!s100 `IWAD;WRBOoKL4l2lTEhR3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
